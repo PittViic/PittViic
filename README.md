@@ -1,5 +1,5 @@
 - 👋 Hi guys, I’m @PittViic
-- 👀 I want to gain experience 
+- 👀 I 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on your business
 - 📫 You can talk to me in my instagram: Gold_Pitt
