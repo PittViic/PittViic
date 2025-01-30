@@ -21,4 +21,4 @@ Passionate about learning new things and seeking new challenges.
 ## Contact:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/pitt_viic/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pvictors152004@gmail.com)
+)](https://www.instagram.com/pe_viic/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pvictors152004@gmail.com)
