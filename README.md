@@ -1,15 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 ## Hello! I am Pedro 👋
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=PittViic&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/PittViic"
-    width="600"
-    height="120"
-  />
-</a>
   
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
