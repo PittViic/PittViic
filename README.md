@@ -4,9 +4,12 @@
 
 Passionate about learning new things and seeking new challenges.
 
-![PittViic GitHub stats](https://github-readme-stats.vercel.app/api?username=PittViic&show_icons=true&theme=dracula)
+<div align="center">
 
+![PittViic GitHub stats](https://github-readme-stats.vercel.app/api?username=PittViic&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PittViic)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ## Technologies and Tools:
 
