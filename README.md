@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
-# Hello! I am Pedro 👋
+# Hello! My name is Pedro 👋
 
 Passionate about learning new things and seeking new challenges.
 
