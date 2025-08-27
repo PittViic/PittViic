@@ -1,29 +1,71 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-# Hello! My name is Pedro 👋
-
-Passionate about learning new things and seeking new challenges.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Olá!%20Eu%20sou%20o%20Pedro&fontAlign=65&fontAlignY=35&fontSize=35" width="100%"/>
+</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PittViic&show_icons=true&theme=dracula"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PittViic&layout=compact"/>
+  <h3>
+    <b>Entusiasta de Tecnologia e Análise de Dados | Desenvolvedor em formação</b>
+  </h3>
+  <p>
+    Apaixonado por transformar dados em insights e construir soluções criativas. Sempre em busca de novos desafios e aprendizados no universo da programação e da ciência de dados.
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PittViic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+      </td>
+      <td valign="top">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PittViic&layout=compact&langs_count=7&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PittViic&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="github-trophies"/>
+</div>
+
+<br>
+
+## 🚀 Tecnologias e Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,mysql,powerbi,excel,vue,js" />
+  </a>
+</p>
+
+<br>
+
+## 📊 Gráfico de Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PittViic&theme=tokyonight&hide_border=true&area=true&area_color=8884d8&line=8884d8" alt="contribution graph">
+</div>
+
+<br>
+
+## 📫 Entre em Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-victor-8674b622a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:pvictors152004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/pe_viic/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
 
-## Technologies and Tools:
+<br>
 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-## Contribution Graph:
-
-<img src = "https://github-readme-activity-graph.vercel.app/graph?username=PittViic&theme=react-dark&hide_border=false">
-
-## Contact: 
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/pe_viic/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pvictors152004@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-victor-8674b622a/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
